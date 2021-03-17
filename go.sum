@@ -10,6 +10,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.0.3 h1:dST4y8pZKZ
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.0.3/go.mod h1:C50Z41fJaJ7WgaeeCulOGAU3q4+4se4B3uOPFdhBi2I=
 github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.1.2 h1:J9zvPLPGvytqa3YKGIzvehoJ621xViLT8Saohg6P73I=
 github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.1.2/go.mod h1:dR9hUeYkCYyYoCpucS2v+vFsTJolTIY0tGMx9dU0ZnM=
+github.com/aws/aws-sdk-go-v2/service/ssm v1.1.2 h1:JywBoZUsy/bulUKlYI3xPTlXDEn+VZ/sCIlX1yDPN8Y=
+github.com/aws/aws-sdk-go-v2/service/ssm v1.1.2/go.mod h1:9TBBoeFURy05tPw0heKAHKXN2b447xZJXeFKme+EO2s=
 github.com/aws/aws-sdk-go-v2/service/sso v1.1.2 h1:9BnjX/ALn5uLo2DbgkwMpUkPL1VLQVBXcjZxqJBhf44=
 github.com/aws/aws-sdk-go-v2/service/sso v1.1.2/go.mod h1:5yU1oE3+CVYYLUsaHt2AVU3CJJZ6ER4pwsrRD1L2KSc=
 github.com/aws/aws-sdk-go-v2/service/sts v1.1.2 h1:7Kxqov7uQeP8WUEO0iHz3j9Bh0E1rJrn6cf/OGfcDds=
@@ -18,6 +20,7 @@ github.com/aws/smithy-go v1.2.0 h1:0PoGBWXkXDIyVdPaZW9gMhaGzj3UOAgTdiVoHuuZAFA=
 github.com/aws/smithy-go v1.2.0/go.mod h1:SObp3lf9smib00L/v3U2eAKG8FyQ7iLrJnQiAmR5n+E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/google/go-cmp v0.5.4/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/jmespath/go-jmespath v0.4.0 h1:BEgLn5cpjn8UN1mAw4NjwDrS35OdebyEtFe+9YPoQUg=
 github.com/jmespath/go-jmespath v0.4.0/go.mod h1:T8mJZnbsbmF+m6zOOFylbeCJqk5+pHWvzYPziyZiYoo=
 github.com/jmespath/go-jmespath/internal/testify v1.5.1/go.mod h1:L3OGu8Wl2/fWfCI6z80xFu9LTZmf1ZRjMHUOPmWr69U=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
